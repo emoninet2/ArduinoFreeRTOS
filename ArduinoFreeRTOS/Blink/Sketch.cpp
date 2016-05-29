@@ -29,6 +29,7 @@ void thread_1( void *pvParameters ){
 		vTaskDelay(500);              // wait for a second
 		digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
 		vTaskDelay(500);              // wait for a second
+		Serial.println("Hello World\r\n");
 	}
 
 }
@@ -53,8 +54,9 @@ void thread_3( void *pvParameters ){
 
 // the setup function runs once when you press reset or power the board
 void setup() {
+	Serial.begin(9600);
   // initialize digital pin 13 as an output.
-  pinMode(13, OUTPUT);
+	pinMode(13, OUTPUT);
   
   	//creating the threads
 	xTaskCreate( thread_1, ( const char * ) "t1", 300, NULL, tskIDLE_PRIORITY, NULL );

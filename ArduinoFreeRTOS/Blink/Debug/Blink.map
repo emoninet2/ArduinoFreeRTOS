@@ -1,19 +1,75 @@
 Archive member included to satisfy reference by file (symbol)
 
+C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial5beginEmh)
+C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                               C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o) (init)
 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                               Sketch.o (pinMode)
+C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
                               C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixsfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
                               Sketch.o (__do_copy_data)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
                               Source/croutine.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
                               Source/queue.o (memcpy)
 
@@ -197,12 +253,76 @@ Discarded input sections
  .debug_line    0x00000000       0x1a Source/timers.o
  .debug_str     0x00000000      0x19f Source/timers.o
  .comment       0x00000000       0x31 Source/timers.o
+ .group         0x00000000        0x8 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000000       0x1e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text.atexit   0x00000000        0x6 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text._Z8setupUSBv
                 0x00000000        0x2 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0xe C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xac C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x94 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x2e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1a C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x2e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x2c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1ca C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
@@ -218,6 +338,22 @@ Discarded input sections
                 0x00000000       0x52 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .progmem.data.port_to_input_PGM
                 0x00000000        0xa C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x8e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x5e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x18 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xb3 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a9 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .data          0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .bss           0x00000000        0x0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
@@ -231,6 +367,120 @@ Discarded input sections
  .debug_str     0x00000000      0x139 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .comment       0x00000000       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .debug_frame   0x00000000       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
@@ -279,6 +529,42 @@ Discarded input sections
                 0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
@@ -413,7 +699,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0xe52
+.text           0x00000000     0x12f8
  *(.vectors)
  .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
                 0x00000000                __vector_default
@@ -449,165 +735,218 @@ END GROUP
  *(.lowtext*)
                 0x000000b8                __ctors_start = .
  *(.ctors)
-                0x000000b8                __ctors_end = .
-                0x000000b8                __dtors_start = .
+ .ctors         0x000000b8        0x2 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000ba                __ctors_end = .
+                0x000000ba                __dtors_start = .
  *(.dtors)
-                0x000000b8                __dtors_end = .
+                0x000000ba                __dtors_end = .
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x000000b8        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
-                0x000000b8                __init
+ .init0         0x000000ba        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000ba                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x000000b8        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .init2         0x000000ba        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x000000c4       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
-                0x000000c4                __do_copy_data
- .init4         0x000000da       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
-                0x000000da                __do_clear_bss
+ .init4         0x000000c6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000000c6                __do_copy_data
+ .init4         0x000000dc       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000dc                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
  *(.init6)
+ .init6         0x000000ec       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                0x000000ec                __do_global_ctors
  *(.init6)
  *(.init7)
  *(.init7)
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x000000ea        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .init9         0x00000102        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
  *(.init9)
  *(.text)
- .text          0x000000f2        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
-                0x000000f2                __vector_22
-                0x000000f2                __vector_1
-                0x000000f2                __vector_24
-                0x000000f2                __vector_12
-                0x000000f2                __bad_interrupt
-                0x000000f2                __vector_6
-                0x000000f2                __vector_3
-                0x000000f2                __vector_23
-                0x000000f2                __vector_25
-                0x000000f2                __vector_13
-                0x000000f2                __vector_17
-                0x000000f2                __vector_19
-                0x000000f2                __vector_7
-                0x000000f2                __vector_5
-                0x000000f2                __vector_4
-                0x000000f2                __vector_9
-                0x000000f2                __vector_2
-                0x000000f2                __vector_21
-                0x000000f2                __vector_15
-                0x000000f2                __vector_8
-                0x000000f2                __vector_14
-                0x000000f2                __vector_10
-                0x000000f2                __vector_18
-                0x000000f2                __vector_20
-                0x000000f6                . = ALIGN (0x2)
+ .text          0x0000010a        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000010a                __vector_22
+                0x0000010a                __vector_1
+                0x0000010a                __vector_24
+                0x0000010a                __vector_12
+                0x0000010a                __bad_interrupt
+                0x0000010a                __vector_6
+                0x0000010a                __vector_3
+                0x0000010a                __vector_23
+                0x0000010a                __vector_25
+                0x0000010a                __vector_13
+                0x0000010a                __vector_17
+                0x0000010a                __vector_7
+                0x0000010a                __vector_5
+                0x0000010a                __vector_4
+                0x0000010a                __vector_9
+                0x0000010a                __vector_2
+                0x0000010a                __vector_21
+                0x0000010a                __vector_15
+                0x0000010a                __vector_8
+                0x0000010a                __vector_14
+                0x0000010a                __vector_10
+                0x0000010a                __vector_20
+                0x0000010e                . = ALIGN (0x2)
  *(.text.*)
- .text._Z8thread_1Pv
-                0x000000f6       0x22 Sketch.o
-                0x000000f6                _Z8thread_1Pv
  .text._Z8thread_2Pv
-                0x00000118       0x14 Sketch.o
-                0x00000118                _Z8thread_2Pv
+                0x0000010e       0x14 Sketch.o
+                0x0000010e                _Z8thread_2Pv
  .text._Z8thread_3Pv
-                0x0000012c       0x14 Sketch.o
-                0x0000012c                _Z8thread_3Pv
- .text.setup    0x00000140       0x72 Sketch.o
-                0x00000140                setup
- .text.loop     0x000001b2        0x2 Sketch.o
-                0x000001b2                loop
+                0x00000122       0x14 Sketch.o
+                0x00000122                _Z8thread_3Pv
+ .text._Z8thread_1Pv
+                0x00000136       0x2e Sketch.o
+                0x00000136                _Z8thread_1Pv
+ .text.setup    0x00000164       0x84 Sketch.o
+                0x00000164                setup
+ .text.loop     0x000001e8        0x2 Sketch.o
+                0x000001e8                loop
  .text.pxPortInitialiseStack
-                0x000001b4       0xd8 Source/include/portable/GCC/ATMega323/port.o
-                0x000001b4                pxPortInitialiseStack
+                0x000001ea       0xd8 Source/include/portable/GCC/ATMega323/port.o
+                0x000001ea                pxPortInitialiseStack
  .text.xPortStartScheduler
-                0x0000028c       0x74 Source/include/portable/GCC/ATMega323/port.o
-                0x0000028c                xPortStartScheduler
+                0x000002c2       0x74 Source/include/portable/GCC/ATMega323/port.o
+                0x000002c2                xPortStartScheduler
  .text.vPortYield
-                0x00000300       0xb2 Source/include/portable/GCC/ATMega323/port.o
-                0x00000300                vPortYield
+                0x00000336       0xb2 Source/include/portable/GCC/ATMega323/port.o
+                0x00000336                vPortYield
  .text.vPortYieldFromTick
-                0x000003b2       0xb8 Source/include/portable/GCC/ATMega323/port.o
-                0x000003b2                vPortYieldFromTick
+                0x000003e8       0xb8 Source/include/portable/GCC/ATMega323/port.o
+                0x000003e8                vPortYieldFromTick
  .text.__vector_11
-                0x0000046a        0x6 Source/include/portable/GCC/ATMega323/port.o
-                0x0000046a                __vector_11
+                0x000004a0        0x6 Source/include/portable/GCC/ATMega323/port.o
+                0x000004a0                __vector_11
  .text.pvPortMalloc
-                0x00000470       0x64 Source/include/portable/MemMang/heap_1.o
-                0x00000470                pvPortMalloc
+                0x000004a6       0x64 Source/include/portable/MemMang/heap_1.o
+                0x000004a6                pvPortMalloc
  .text.vPortFree
-                0x000004d4        0x2 Source/include/portable/MemMang/heap_1.o
-                0x000004d4                vPortFree
+                0x0000050a        0x2 Source/include/portable/MemMang/heap_1.o
+                0x0000050a                vPortFree
  .text.vListInitialise
-                0x000004d6       0x1c Source/list.o
-                0x000004d6                vListInitialise
+                0x0000050c       0x1c Source/list.o
+                0x0000050c                vListInitialise
  .text.vListInitialiseItem
-                0x000004f2        0x8 Source/list.o
-                0x000004f2                vListInitialiseItem
+                0x00000528        0x8 Source/list.o
+                0x00000528                vListInitialiseItem
  .text.vListInsertEnd
-                0x000004fa       0x42 Source/list.o
-                0x000004fa                vListInsertEnd
+                0x00000530       0x42 Source/list.o
+                0x00000530                vListInsertEnd
  .text.vListInsert
-                0x0000053c       0x70 Source/list.o
-                0x0000053c                vListInsert
+                0x00000572       0x70 Source/list.o
+                0x00000572                vListInsert
  .text.uxListRemove
-                0x000005ac       0x46 Source/list.o
-                0x000005ac                uxListRemove
+                0x000005e2       0x46 Source/list.o
+                0x000005e2                uxListRemove
  .text.prvIdleTask
-                0x000005f2        0x2 Source/tasks.o
+                0x00000628        0x2 Source/tasks.o
  .text.prvAddCurrentTaskToDelayedList
-                0x000005f4       0x70 Source/tasks.o
+                0x0000062a       0x70 Source/tasks.o
  .text.xTaskGenericCreate
-                0x00000664      0x1de Source/tasks.o
-                0x00000664                xTaskGenericCreate
+                0x0000069a      0x1de Source/tasks.o
+                0x0000069a                xTaskGenericCreate
  .text.vTaskStartScheduler
-                0x00000842       0x64 Source/tasks.o
-                0x00000842                vTaskStartScheduler
+                0x00000878       0x64 Source/tasks.o
+                0x00000878                vTaskStartScheduler
  .text.vTaskSuspendAll
-                0x000008a6        0xc Source/tasks.o
-                0x000008a6                vTaskSuspendAll
+                0x000008dc        0xc Source/tasks.o
+                0x000008dc                vTaskSuspendAll
  .text.xTaskIncrementTick
-                0x000008b2      0x18e Source/tasks.o
-                0x000008b2                xTaskIncrementTick
+                0x000008e8      0x18e Source/tasks.o
+                0x000008e8                xTaskIncrementTick
  .text.xTaskResumeAll
-                0x00000a40       0xe0 Source/tasks.o
-                0x00000a40                xTaskResumeAll
+                0x00000a76       0xe0 Source/tasks.o
+                0x00000a76                xTaskResumeAll
  .text.vTaskDelay
-                0x00000b20       0x42 Source/tasks.o
-                0x00000b20                vTaskDelay
+                0x00000b56       0x42 Source/tasks.o
+                0x00000b56                vTaskDelay
  .text.vTaskSwitchContext
-                0x00000b62       0x98 Source/tasks.o
-                0x00000b62                vTaskSwitchContext
+                0x00000b98       0x98 Source/tasks.o
+                0x00000b98                vTaskSwitchContext
+ .text._ZN14HardwareSerial9availableEv
+                0x00000c30       0x18 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c30                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000c48       0x1c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c48                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000c64       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c64                _ZN14HardwareSerial4readEv
+ .text._Z14serialEventRunv
+                0x00000c8c       0x1c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c8c                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000ca8       0x42 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000ca8                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000cea       0x44 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000cea                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00000d2e       0x8e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000d2e                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000dbc       0xca C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000dbc                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x00000e86       0x64 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000e86                __vector_18
+ .text.__vector_19
+                0x00000eea       0x4c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000eea                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000f36       0x14 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000f36                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000f4a       0x5a C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text.initVariant
-                0x00000bfa        0x2 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00000bfa                initVariant
+                0x00000fa4        0x2 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000fa4                initVariant
  .text.startup.main
-                0x00000bfc       0x1e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00000bfc                main
+                0x00000fa6       0x1e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000fa6                main
+ .text._ZN5Print5writeEPKhj
+                0x00000fc4       0x56 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000fc4                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x0000101a       0x2a C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000101a                _ZN5Print5writeEPKc
+ .text._ZN5Print7printlnEv
+                0x00001044        0x8 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001044                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x0000104c       0x24 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000104c                _ZN5Print7printlnEPKc
  .text.__vector_16
-                0x00000c1a       0x94 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000c1a                __vector_16
- .text.init     0x00000cae       0x76 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000cae                init
+                0x00001070       0x94 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001070                __vector_16
+ .text.init     0x00001104       0x76 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001104                init
  .text.turnOffPWM
-                0x00000d24       0x52 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text.pinMode  0x00000d76       0x78 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000d76                pinMode
+                0x0000117a       0x52 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000011cc       0x78 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000011cc                pinMode
  .text.digitalWrite
-                0x00000dee       0x60 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000dee                digitalWrite
-                0x00000e4e                . = ALIGN (0x2)
+                0x00001244       0x60 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001244                digitalWrite
+ .text.libgcc.div
+                0x000012a4       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x000012a4                __udivmodsi4
+ .text.libgcc   0x000012e8        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x000012e8                __tablejump2__
+                0x000012f4                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000e4e        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
-                0x00000e4e                _exit
-                0x00000e4e                exit
+ .fini9         0x000012f4        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000012f4                _exit
+                0x000012f4                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -626,11 +965,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000e4e        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .fini0         0x000012f4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00000e52                _etext = .
+                0x000012f8                _etext = .
 
-.data           0x00800100       0x10 load address 0x00000e52
+.data           0x00800100       0x3c load address 0x000012f8
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
@@ -639,75 +978,83 @@ END GROUP
  *(.rodata)
  *(.rodata*)
  .rodata.str1.1
-                0x00800102        0x9 Sketch.o
+                0x00800102       0x17 Sketch.o
  .rodata.str1.1
-                0x0080010b        0x5 Source/tasks.o
+                0x00800119        0x5 Source/tasks.o
+ .rodata._ZTV14HardwareSerial
+                0x0080011e       0x10 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080011e                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x0080012e        0xe C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                                 0x11 (size before relaxing)
  *(.gnu.linkonce.d*)
-                0x00800110                . = ALIGN (0x2)
-                0x00800110                _edata = .
-                0x00800110                PROVIDE (__data_end, .)
+                0x0080013c                . = ALIGN (0x2)
+                0x0080013c                _edata = .
+                0x0080013c                PROVIDE (__data_end, .)
 
-.bss            0x00800110      0x3ae
-                0x00800110                PROVIDE (__bss_start, .)
+.bss            0x0080013c      0x44b
+                0x0080013c                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
  .bss.pucAlignedHeap.1855
-                0x00800110        0x2 Source/include/portable/MemMang/heap_1.o
+                0x0080013c        0x2 Source/include/portable/MemMang/heap_1.o
  .bss.xNextFreeByte
-                0x00800112        0x2 Source/include/portable/MemMang/heap_1.o
- .bss.ucHeap    0x00800114      0x352 Source/include/portable/MemMang/heap_1.o
+                0x0080013e        0x2 Source/include/portable/MemMang/heap_1.o
+ .bss.ucHeap    0x00800140      0x352 Source/include/portable/MemMang/heap_1.o
  .bss.uxSchedulerSuspended
-                0x00800466        0x1 Source/tasks.o
+                0x00800492        0x1 Source/tasks.o
  .bss.uxTaskNumber
-                0x00800467        0x1 Source/tasks.o
+                0x00800493        0x1 Source/tasks.o
  .bss.xNumOfOverflows
-                0x00800468        0x1 Source/tasks.o
+                0x00800494        0x1 Source/tasks.o
  .bss.xYieldPending
-                0x00800469        0x1 Source/tasks.o
+                0x00800495        0x1 Source/tasks.o
  .bss.uxPendedTicks
-                0x0080046a        0x1 Source/tasks.o
+                0x00800496        0x1 Source/tasks.o
  .bss.xSchedulerRunning
-                0x0080046b        0x1 Source/tasks.o
+                0x00800497        0x1 Source/tasks.o
  .bss.uxTopReadyPriority
-                0x0080046c        0x1 Source/tasks.o
+                0x00800498        0x1 Source/tasks.o
  .bss.xTickCount
-                0x0080046d        0x2 Source/tasks.o
+                0x00800499        0x2 Source/tasks.o
  .bss.uxCurrentNumberOfTasks
-                0x0080046f        0x1 Source/tasks.o
+                0x0080049b        0x1 Source/tasks.o
  .bss.xPendingReadyList
-                0x00800470        0x9 Source/tasks.o
+                0x0080049c        0x9 Source/tasks.o
  .bss.pxOverflowDelayedTaskList
-                0x00800479        0x2 Source/tasks.o
+                0x008004a5        0x2 Source/tasks.o
  .bss.pxDelayedTaskList
-                0x0080047b        0x2 Source/tasks.o
+                0x008004a7        0x2 Source/tasks.o
  .bss.xDelayedTaskList2
-                0x0080047d        0x9 Source/tasks.o
+                0x008004a9        0x9 Source/tasks.o
  .bss.xDelayedTaskList1
-                0x00800486        0x9 Source/tasks.o
+                0x008004b2        0x9 Source/tasks.o
  .bss.pxReadyTasksLists
-                0x0080048f       0x24 Source/tasks.o
+                0x008004bb       0x24 Source/tasks.o
  .bss.pxCurrentTCB
-                0x008004b3        0x2 Source/tasks.o
-                0x008004b3                pxCurrentTCB
+                0x008004df        0x2 Source/tasks.o
+                0x008004df                pxCurrentTCB
+ .bss.Serial    0x008004e1       0x9d C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008004e1                Serial
  .bss.timer0_fract
-                0x008004b5        0x1 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080057e        0x1 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x008004b6        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008004b6                timer0_millis
+                0x0080057f        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080057f                timer0_millis
  .bss.timer0_overflow_count
-                0x008004ba        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008004ba                timer0_overflow_count
+                0x00800583        0x4 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800583                timer0_overflow_count
  *(COMMON)
-                0x008004be                PROVIDE (__bss_end, .)
-                0x00000e52                __data_load_start = LOADADDR (.data)
-                0x00000e62                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x00800587                PROVIDE (__bss_end, .)
+                0x000012f8                __data_load_start = LOADADDR (.data)
+                0x00001334                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008004be        0x0
-                0x008004be                PROVIDE (__noinit_start, .)
+.noinit         0x00800587        0x0
+                0x00800587                PROVIDE (__noinit_start, .)
  *(.noinit*)
-                0x008004be                PROVIDE (__noinit_end, .)
-                0x008004be                _end = .
-                0x008004be                PROVIDE (__heap_start, .)
+                0x00800587                PROVIDE (__noinit_end, .)
+                0x00800587                _end = .
+                0x00800587                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
  *(.eeprom*)
@@ -754,7 +1101,10 @@ END GROUP
  .comment       0x00000030       0x31 Source/include/portable/MemMang/heap_1.o
  .comment       0x00000030       0x31 Source/list.o
  .comment       0x00000030       0x31 Source/tasks.o
+ .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .comment       0x00000030       0x31 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
@@ -778,7 +1128,7 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x280
+.debug_aranges  0x00000000      0x410
  *(.debug_aranges)
  .debug_aranges
                 0x00000000       0x40 Sketch.o
@@ -791,87 +1141,114 @@ END GROUP
  .debug_aranges
                 0x00000100       0xc8 Source/tasks.o
  .debug_aranges
-                0x000001c8       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000001c8       0x68 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .debug_aranges
-                0x00000200       0x48 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000230       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .debug_aranges
-                0x00000248       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000268       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x000002a0       0xf0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000390       0x48 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000003d8       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x28a2
+.debug_info     0x00000000     0x83cd
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x54c Sketch.o
- .debug_info    0x0000054c      0x261 Source/include/portable/GCC/ATMega323/port.o
- .debug_info    0x000007ad      0x1ad Source/include/portable/MemMang/heap_1.o
- .debug_info    0x0000095a      0x2c0 Source/list.o
- .debug_info    0x00000c1a     0x11ad Source/tasks.o
- .debug_info    0x00001dc7      0x225 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x00001fec      0x2bd C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_info    0x000022a9      0x5f9 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00000000      0x6a1 Sketch.o
+ .debug_info    0x000006a1      0x261 Source/include/portable/GCC/ATMega323/port.o
+ .debug_info    0x00000902      0x1ad Source/include/portable/MemMang/heap_1.o
+ .debug_info    0x00000aaf      0x2c0 Source/list.o
+ .debug_info    0x00000d6f     0x11ad Source/tasks.o
+ .debug_info    0x00001f1c     0x1b55 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00003a71     0x1770 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000051e1      0x225 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00005406     0x2711 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00007b17      0x2bd C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00007dd4      0x5f9 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
-.debug_abbrev   0x00000000      0xbde
+.debug_abbrev   0x00000000     0x18a8
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x18f Sketch.o
- .debug_abbrev  0x0000018f      0x167 Source/include/portable/GCC/ATMega323/port.o
- .debug_abbrev  0x000002f6      0x12e Source/include/portable/MemMang/heap_1.o
- .debug_abbrev  0x00000424       0xf8 Source/list.o
- .debug_abbrev  0x0000051c      0x320 Source/tasks.o
- .debug_abbrev  0x0000083c      0x102 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x0000093e      0x145 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_abbrev  0x00000a83      0x15b C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00000000      0x25d Sketch.o
+ .debug_abbrev  0x0000025d      0x167 Source/include/portable/GCC/ATMega323/port.o
+ .debug_abbrev  0x000003c4      0x12e Source/include/portable/MemMang/heap_1.o
+ .debug_abbrev  0x000004f2       0xf8 Source/list.o
+ .debug_abbrev  0x000005ea      0x320 Source/tasks.o
+ .debug_abbrev  0x0000090a      0x432 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000d3c      0x37c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x000010b8      0x102 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000011ba      0x44e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001608      0x145 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x0000174d      0x15b C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
-.debug_line     0x00000000      0xfa3
+.debug_line     0x00000000     0x192e
  *(.debug_line .debug_line.* .debug_line_end)
- .debug_line    0x00000000      0x1fa Sketch.o
- .debug_line    0x000001fa      0x19b Source/include/portable/GCC/ATMega323/port.o
- .debug_line    0x00000395      0x1ca Source/include/portable/MemMang/heap_1.o
- .debug_line    0x0000055f      0x161 Source/list.o
- .debug_line    0x000006c0      0x4bc Source/tasks.o
- .debug_line    0x00000b7c      0x149 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x00000cc5      0x190 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_line    0x00000e55      0x14e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00000000      0x29a Sketch.o
+ .debug_line    0x0000029a      0x19b Source/include/portable/GCC/ATMega323/port.o
+ .debug_line    0x00000435      0x1ca Source/include/portable/MemMang/heap_1.o
+ .debug_line    0x000005ff      0x161 Source/list.o
+ .debug_line    0x00000760      0x4bc Source/tasks.o
+ .debug_line    0x00000c1c      0x2c6 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000ee2      0x211 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x000010f3      0x149 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x0000123c      0x414 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001650      0x190 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000017e0      0x14e C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
-.debug_frame    0x00000000      0x610
+.debug_frame    0x00000000      0xb7c
  *(.debug_frame)
  .debug_frame   0x00000000       0x88 Sketch.o
  .debug_frame   0x00000088       0x74 Source/include/portable/GCC/ATMega323/port.o
  .debug_frame   0x000000fc       0x60 Source/include/portable/MemMang/heap_1.o
  .debug_frame   0x0000015c       0x90 Source/list.o
  .debug_frame   0x000001ec      0x298 Source/tasks.o
- .debug_frame   0x00000484       0x54 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x000004d8       0xbc C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_frame   0x00000594       0x7c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000484      0x110 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00000594       0xc0 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000654       0x54 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000006a8      0x39c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000a44       0xbc C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000b00       0x7c C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
-.debug_str      0x00000000      0xe70
+.debug_str      0x00000000     0x222b
  *(.debug_str)
- .debug_str     0x00000000      0x33c Sketch.o
-                                0x380 (size before relaxing)
- .debug_str     0x0000033c      0x22c Source/include/portable/GCC/ATMega323/port.o
+ .debug_str     0x00000000      0x3cf Sketch.o
+                                0x425 (size before relaxing)
+ .debug_str     0x000003cf      0x22c Source/include/portable/GCC/ATMega323/port.o
                                 0x2f9 (size before relaxing)
- .debug_str     0x00000568       0xcd Source/include/portable/MemMang/heap_1.o
+ .debug_str     0x000005fb       0xc6 Source/include/portable/MemMang/heap_1.o
                                 0x275 (size before relaxing)
- .debug_str     0x00000635      0x12e Source/list.o
+ .debug_str     0x000006c1      0x12e Source/list.o
                                 0x2d7 (size before relaxing)
- .debug_str     0x00000763      0x4e2 Source/tasks.o
+ .debug_str     0x000007ef      0x4e2 Source/tasks.o
                                 0x915 (size before relaxing)
- .debug_str     0x00000c45       0xc7 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_str     0x00000cd1      0xf9d C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x1247 (size before relaxing)
+ .debug_str     0x00001c6e       0x8b C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x1041 (size before relaxing)
+ .debug_str     0x00001cf9       0x43 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
                                 0x29a (size before relaxing)
- .debug_str     0x00000d0c       0x8b C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_str     0x00001d3c      0x39d C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                                0xeba (size before relaxing)
+ .debug_str     0x000020d9       0x8b C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                                 0x23b (size before relaxing)
- .debug_str     0x00000d97       0xd9 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_str     0x00002164       0xc7 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                                 0x2a9 (size before relaxing)
 
-.debug_loc      0x00000000     0x1bea
+.debug_loc      0x00000000     0x4123
  *(.debug_loc)
  .debug_loc     0x00000000       0xbc Sketch.o
  .debug_loc     0x000000bc      0x2ac Source/include/portable/GCC/ATMega323/port.o
  .debug_loc     0x00000368       0xd3 Source/include/portable/MemMang/heap_1.o
  .debug_loc     0x0000043b      0x1d7 Source/list.o
  .debug_loc     0x00000612      0xdac Source/tasks.o
- .debug_loc     0x000013be      0x249 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_loc     0x00001607      0x5e3 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x000013be      0x497 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x00001855      0x161 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000019b6     0x1f41 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000038f7      0x249 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00003b40      0x5e3 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -891,16 +1268,19 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000      0x230
+.debug_ranges   0x00000000      0x3f0
  *(.debug_ranges)
  .debug_ranges  0x00000000       0x30 Sketch.o
  .debug_ranges  0x00000030       0x38 Source/include/portable/GCC/ATMega323/port.o
  .debug_ranges  0x00000068       0x28 Source/include/portable/MemMang/heap_1.o
  .debug_ranges  0x00000090       0x30 Source/list.o
  .debug_ranges  0x000000c0       0xe8 Source/tasks.o
- .debug_ranges  0x000001a8       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x000001d0       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_ranges  0x00000208       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000001a8       0x70 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000218       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000240       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000268      0x128 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000390       0x38 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x000003c8       0x28 C:\Users\emon1\Documents\Atmel Studio\7.0\ArduinoFreeRTOS\ArduinoFreeRTOS\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
 .debug_macro
  *(.debug_macro)
